@@ -55,10 +55,10 @@ iris-classifier/
 ## Output Screenshots
 
 ### Data Visualization
-![Graph](images/graph.png)
+![Graph](images/Graph.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix.png)
 
 ## Author
 Pruthvi
