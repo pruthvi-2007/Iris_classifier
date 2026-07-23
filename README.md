@@ -58,7 +58,7 @@ iris-classifier/
 ![Graph](images/Screenshot%202026-05-29%20122602.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/Confusion_Matrix.png)
+![Confusion Matrix](images/Screenshot%202026-05-29%20122631.png)
 
 ## Author
 Pruthvi
