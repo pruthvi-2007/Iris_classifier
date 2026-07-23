@@ -55,7 +55,7 @@ iris-classifier/
 ## Output Screenshots
 
 ### Data Visualization
-![Graph](images/Screenshot 2026-05-29 122602.png)
+![Graph](images/Screenshot%202026-05-29%20122602.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](images/Confusion_Matrix.png)
